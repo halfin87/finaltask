@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\bin\Debug\net6.0\itog.exe
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\bin\Debug\net6.0\itog.deps.json
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\bin\Debug\net6.0\itog.runtimeconfig.json
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\bin\Debug\net6.0\itog.dll
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\bin\Debug\net6.0\itog.pdb
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.dll
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\refint\itog.dll
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.pdb
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\itog.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Рабочий стол\итоговая\itog\obj\Debug\net6.0\ref\itog.dll
